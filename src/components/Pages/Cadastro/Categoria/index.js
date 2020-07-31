@@ -8,10 +8,10 @@ function cadastroCategoria(){
             <h1>Cadastro de categoria</h1>
 
             <Link to="/">
-                Ir para a home
+                Ir para a home alguma coisa do tipo
             </Link>
         </PageDefault>
     )
   }
-
+ 
 export default cadastroCategoria;
